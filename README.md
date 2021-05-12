@@ -9,7 +9,7 @@ Testing a scenario for completing a switch between two network (here changing ne
 # Setup
 
 # Install
-# Install dependencies
+Install dependencies
 
 # Licence
 N/A
